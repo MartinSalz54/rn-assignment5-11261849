@@ -11,6 +11,12 @@ Action Icons: Provides icons for actions like "Sent," "Receive," "Loan," and "To
 # React Native: A framework for building native apps using React.
 # React Native Paper: A Material Design library for React Native.
 
+## SCREENSHOT
+assets\WhatsApp Image 2024-06-25 at 9.41.44 AM.jpeg
+assets\WhatsApp Image 2024-06-25 at 9.41.46 AM.jpeg
+assets\WhatsApp Image 2024-06-25 at 9.41.47 AM (1).jpeg
+
+
 
 ### Contributing
 # Contributions are welcome! Please open an issue or submit a pull request for any changes or additions.
