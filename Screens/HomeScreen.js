@@ -46,7 +46,7 @@ const HomeScreen = () => {
 
       <View style={styles.transactionContainer}>
         <View style={styles.transactionHeader}>
-          <Text style={styles.transactionHeaderText}>Transaction</Text>
+          <Text style={styles.transactionHeaderText}>Transactions</Text>
           <Text style={styles.seeAllText}>See all</Text>
         </View>
         <List.Section>
